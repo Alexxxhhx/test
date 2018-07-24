@@ -1,3 +1,8 @@
+var $ = require("jquery");
+
+var bootstrap = require("bootstrap");
+
+
 //@TODO: Checkbox
 
 // function fun1 () {
